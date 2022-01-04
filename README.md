@@ -1,8 +1,8 @@
-### Hi there, I'm Tuka 👋
+# Hi there, I'm Tuka 👋
 
 I am passionate about artficial intelligence, software development, and cognitive science. 
 
-## I'm a student, developer, artist and Woman in STEM!
+### I'm a student, developer, artist and Woman in STEM!
 - Second year Mathematics student at the Univeristy of Waterloo
 - Currently working on my personal website to showcase my work
 - Seeking Summer 2022 internships or part-time jobs
