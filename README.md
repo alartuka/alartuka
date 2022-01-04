@@ -4,7 +4,7 @@ I am passionate about software development, artificial intelligence, and cogniti
 
 ### I'm a Student, Developer, Artist and Woman in STEM!
 - Second year Mathematics student at the Univeristy of Waterloo
-- Currently working on my personal website to showcase my work
+- Currently working on my personal website
 - Seeking Summer 2022 internships or part-time jobs
 
 ### Check out | Connect with me:
