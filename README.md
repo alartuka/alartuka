@@ -42,12 +42,12 @@ I'm a second-year Mathematics and Computer Science student at the University of 
 - C programming language
 
 ## 💼 Technical Skills
- ### Languages:
+ #### Languages:
  - JavaScript
  - HTML
  - CSS
  - Python
- ### Tools & Frameworks:
+ #### Tools & Frameworks:
  - Processing5
  - React
  - Figma
