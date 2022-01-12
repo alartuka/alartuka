@@ -18,7 +18,7 @@ I'm a second-year Mathematics and Computer Science student at the University of 
 
 ### 🤝 Connect with me:
 
-<a href="https://www.linkedin.com/in/tuka-alarbi-91555a1b6
+<a href="https://www.linkedin.com/in/tukaalarbi
          /"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Tuka Alarbi | LinkedIn" width="21px"/></a>
 <a href="https://instagram.com/alar_tuka2
          "><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Tuka Alarbi | Instagram" width="21px"/></a>
