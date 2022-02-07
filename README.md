@@ -11,22 +11,22 @@ Hi there, I'm <a href="https://github.com/alartuka" target="_blank" rel="norefer
 I'm a Student, Developer 💻, Photographer 📸, Designer 🎨, and Woman in STEM!
 </h2> 
 
-I love the entire process of developing creative websites and I love learning about the psychology behind people's behaviours to develop and design better applications and be able to use the knowledge soon to bring emotional quotient to technology. 
+I love the entire process of developing creative websites and I love learning about the psychology behind people's behaviours to develop and design better applications and to soon be able to use the knowledge to bring emotional quotient to technology. 
 
-I'm a second-year Mathematics-Computer Science student at the University of Waterloo with a plan to minor in Cognitive Science and I'm seeking Summer 2022 internships in software engineering or web development. 
+I'm a second-year Mathematics-Computer Science student at the University of Waterloo with a plan to minor in Cognitive Science. Seeking Summer 2022 internships in software engineering or web development. 
 
 
 ### 🤝 Connect with me:
 
-<a href="https://www.linkedin.com/in/tukaalarbi
-         /"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Tuka Alarbi | LinkedIn" width="21px"/></a>
-<a href="https://instagram.com/alar_tuka2
-         "><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Tuka Alarbi | Instagram" width="21px"/></a>
+<a href="https://www.linkedin.com/in/tukaalarbi/">
+         <img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Tuka Alarbi | LinkedIn" width="21px"/></a>
+<a href="https://instagram.com/alar_tuka2">
+         <img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Tuka Alarbi | Instagram" width="21px"/></a>  
+<a href="mailto:talarbi@uwaterloo.ca?subject=Reaching out from Github">📫</i></a>
 
 <!-- <a href="https://yushi95.medium.com/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Yu Shi | Medium" width="21px"/></a> -->
 </br>
-
-- 💬 If you have any feedback or collaboration inquiries, please do not hesitate to reach out!
+- 💬 If you have any feedback, collaboration inquiries, or want to discuss any opportunies, please do not hesitate to reach out!
 
 ## 🔭 I'm currently working on
 
