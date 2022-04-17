@@ -1,4 +1,4 @@
-[![MasterHead](your image link)](github.com/alartuka)
+[![MasterHead](banner.png)](github.com/alartuka)
 <p align="center"></p>
 
 <!-- <h1 align="center">Hi there, I'm <a href="https://github.com/alartuka" target="_blank" rel="noreferrer">Tuka</a> 👋</h1> -->
