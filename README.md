@@ -11,7 +11,6 @@ I love the entire process of developing creative websites and I love learning ab
 
 I'm a second-year Mathematics-Computer Science student at the University of Waterloo with a plan to minor in Cognitive Science. Seeking Summer 2022 internships in software engineering or web development. 
 
-
 ### 🤝 Connect with me:
 
 <a href="https://www.linkedin.com/in/tukaalarbi/">
