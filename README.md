@@ -1,9 +1,8 @@
-[![MasterHead](banner.png)](github.com/alartuka)
-<p align="center"></p>
+[![MasterHead](banner (1).png)](github.com/alartuka)
 
+<!-- <p align="center"></p> -->
 <!-- <h1 align="center">Hi there, I'm <a href="https://github.com/alartuka" target="_blank" rel="noreferrer">Tuka</a> 👋</h1> -->
-
-<h3 align="center">I'm a Student, Developer 💻, Photographer 📸, Designer 🎨, and Woman in STEM!</h3> 
+<!-- <h3 align="center">I'm a Student, Developer 💻, Photographer 📸, Designer 🎨, and Woman in STEM!</h3>  -->
 
 [![Github](https://img.shields.io/github/followers/alartuka?label=Follow&style=social)](https://github.com/alartuka)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=alartuka.alartuka)
