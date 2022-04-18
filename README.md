@@ -7,17 +7,19 @@
 [![Github](https://img.shields.io/github/followers/alartuka?label=Follow&style=social)](https://github.com/alartuka)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=alartuka.alartuka)
 
+I'm a second-year Mathematics-Computer Science student at the University of Waterloo with a plan to minor in Cognitive Science focusing on artificial intelligence.
+
 I love the entire process of developing creative websites and I love learning about the psychology behind people's behaviours, thoughts, and emotions to develop and design better applications and to soon be able to use the knowledge to bring emotional quotient to technology. 
 
-I'm a second-year Mathematics-Computer Science student at the University of Waterloo with a plan to minor in Cognitive Science. Seeking Summer 2022 internships in software engineering or web development. 
+Seeking Summer 2022 internships in software engineering or web development. 
 
 ### 🤝 Connect with me:
 
 <a href="https://www.linkedin.com/in/tukaalarbi/">
-         <img align="center" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Tuka Alarbi | LinkedIn" width="21px"/></a>
+         <img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Tuka Alarbi | LinkedIn" width="21px"/></a>
 <a href="https://instagram.com/alar_tuka2">
-         <img align="center" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Tuka Alarbi | Instagram" width="21px"/></a>  
-<a href="mailto:talarbi@uwaterloo.ca?subject=Reaching out from Github">📫</i></a>
+         <img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Tuka Alarbi | Instagram" width="21px"/></a>  
+<a href="mailto:talarbi@uwaterloo.ca?subject=Reaching out from Github" align="left">📫</i></a>
 
  💬 If you have any feedback, collaboration inquiries, or want to discuss any opportunies, please do not hesitate to reach out!
 <br />
