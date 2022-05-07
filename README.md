@@ -5,8 +5,8 @@
 <!-- <h3 align="center">I'm a Student, Developer 💻, Photographer 📸, Designer 🎨, and Woman in STEM!</h3>  -->
 
 [![Github](https://img.shields.io/github/followers/alartuka?label=Follow&style=social)](https://github.com/alartuka)
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=alartuka.alartuka)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=alartuka)
+
 I'm a second-year Mathematics-Computer Science student at the University of Waterloo with a plan to minor in Cognitive Science focusing on artificial intelligence.
 
 I love the entire process of developing creative websites and I love learning about the psychology behind people's behaviours, thoughts, and emotions to develop and design better applications and to soon be able to use the knowledge to bring emotional quotient to technology. 
