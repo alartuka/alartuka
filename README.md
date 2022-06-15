@@ -7,7 +7,7 @@
 [![Github](https://img.shields.io/github/followers/alartuka?label=Follow&style=social)](https://github.com/alartuka)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=alartuka)
 
-I'm a second-year Mathematics-Computer Science student at the University of Waterloo with a plan to minor in Cognitive Science focusing on artificial intelligence.
+I'm a Mathematics-Computer Science student at the University of Waterloo with a plan to minor in Cognitive Science focusing on artificial intelligence.
 
 I love the entire process of developing creative websites and I love learning about the psychology behind people's behaviours, thoughts, and emotions to develop and design better applications and to soon be able to use the knowledge to bring emotional quotient to technology. 
 
@@ -42,14 +42,14 @@ Seeking Summer 2022 internships in software engineering or web development.
 ## 🔭 I'm currently working on
 
 - Recipe book App (React)
-- My "Citizen-ize" app (Working on it soon...) + (prototype link in my LinkedIn)
+<!-- - My "Citizen-ize" app (Working on it soon...) + (prototype link in my LinkedIn) -->
 - My personal website and portfolio (React)
-- My JS & python skills
+- My python skills
 <br />
 
 ## 🌱 I'm currently learning
 
-- React Native
+- React js
 - C programming language
 <br />
 
