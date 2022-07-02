@@ -17,8 +17,8 @@ Seeking Summer 2022 internships in software engineering or web development.
 
 <a href="https://www.linkedin.com/in/tukaalarbi/">
          <img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Tuka Alarbi | LinkedIn" width="21px"/></a>
-<a href="https://instagram.com/alar_tuka2">
-         <img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Tuka Alarbi | Instagram" width="21px"/></a>  
+<!-- <a href="https://instagram.com/alar_tuka2">
+         <img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Tuka Alarbi | Instagram" width="21px"/></a> --> 
 <a href="mailto:talarbi@uwaterloo.ca?subject=Reaching out from Github" align="left">📫</i></a>
 
  💬 If you have any feedback, collaboration inquiries, or want to discuss any opportunies, please do not hesitate to reach out!
