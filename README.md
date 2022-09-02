@@ -11,7 +11,7 @@ I'm a Mathematics-Computer Science student at the University of Waterloo with a 
 
 I love the entire process of developing creative websites and I love learning about the psychology behind people's behaviours, thoughts, and emotions to develop and design better applications and to soon be able to use the knowledge to bring emotional quotient to technology. 
 
-Seeking Summer 2022 internships in software engineering or web development. 
+Seeking Summer 2023 internships in software engineering or web development. 
 
 ### 🤝 Connect with me:
 
@@ -26,8 +26,8 @@ Seeking Summer 2022 internships in software engineering or web development.
 
 ## 🛠️ Languages and Tools
 
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img align="left" alt="C" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
@@ -49,8 +49,8 @@ Seeking Summer 2022 internships in software engineering or web development.
 
 ## 🌱 I'm currently learning
 
-- React js
-- C programming language
+- ios development
+- C++ programming language
 <br />
 
 ## 🏆 My Github stats
