@@ -7,20 +7,17 @@
 <!-- [![Github](https://img.shields.io/github/followers/alartuka?label=Follow&style=social)](https://github.com/alartuka) -->
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=alartuka)
 
-I'm a ***💻Computer Science & Mathematics*** student at the **University of Waterloo**🎓 focusing on artificial intelligence🤖.
+I'm a ***💻Computer Science & Mathematics*** student at the **University of Waterloo🎓** focusing on artificial intelligence🤖.
 
 I love the entire process of developing creative websites and I love learning about the psychology behind people's behaviours, thoughts, and emotions to develop and design better applications and to soon be able to use the knowledge to bring emotional quotient to technology. 
 
-<a href="https://www.linkedin.com/in/tukaalarbi/">
+<a alt="Tuka A | LinkedIn" href="https://www.linkedin.com/in/tukaalarbi/">
          <img align="left" alt="Tuka A | LinkedIn" width="35px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /></a>&nbsp;
-<!-- <a href="https://instagram.com/alar_tuka2">
+<!-- <a alt="Tuka A | Instagram" href="https://instagram.com/alar_tuka2">
          <img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Tuka Alarbi | Instagram" width="21px"/></a>&nbsp; --> 
-<!--          ![image](https://user-images.githubusercontent.com/80016785/236652709-df6129f1-e59c-4607-8d47-52ba189821ed.png) -->
 
-<a href="mailto:talarbi@uwaterloo.ca?subject=Reaching out from Github">
-<!--          <img align="right" alt="Tuka A | Email" width="35px" src="https://img.icons8.com/?size=512&id=OumT4lIcOllS&format=png" /> -->
-<!--                   ![image](https://user-images.githubusercontent.com/80016785/236652709-df6129f1-e59c-4607-8d47-52ba189821ed.png) -->
-
+<a alt="Tuka A | Email" href="mailto:talarbi@uwaterloo.ca?subject=Reaching out from Github">
+         <img align="left" alt="Tuka A | Email" width="45px" src="https://img.icons8.com/?size=512&id=OumT4lIcOllS&format=png" />
 </a>
 <br />
 <br />
