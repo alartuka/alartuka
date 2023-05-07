@@ -7,7 +7,7 @@
 <!-- [![Github](https://img.shields.io/github/followers/alartuka?label=Follow&style=social)](https://github.com/alartuka) -->
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=alartuka)
 
-I'm a 💻Computer Science & Mathematics student at the University of Waterloo🎓 focusing on artificial intelligence🤖.
+I'm a ***💻Computer Science & Mathematics*** student at the **University of Waterloo**🎓 focusing on artificial intelligence🤖.
 
 I love the entire process of developing creative websites and I love learning about the psychology behind people's behaviours, thoughts, and emotions to develop and design better applications and to soon be able to use the knowledge to bring emotional quotient to technology. 
 
