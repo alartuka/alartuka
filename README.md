@@ -9,12 +9,10 @@
 
 I'm a ***💻Computer Science & Mathematics*** student at the **University of Waterloo🎓** focusing on artificial intelligence🤖.
 
-I love the entire process of developing creative websites and I love learning about the psychology behind people's behaviours, thoughts, and emotions to develop and design better applications and to soon be able to use the knowledge to bring emotional quotient to technology. 
+I love the entire process of developing creative websites, and I love learning about the psychology behind people's behaviours, thoughts, and emotions to develop and design better applications and to soon be able to use the knowledge to bring emotional quotient to technology. 
 
 <a alt="Tuka Alsharief [fka Tuka Alarbi] | LinkedIn" href="https://www.linkedin.com/in/tukaalarbi/">
-         <img align="left" alt="Tuka Alsharief [fka Tuka Alarbi] | LinkedIn" width="35px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /></a>&nbsp;
-<!-- <a alt="Tuka A | Instagram" href="https://instagram.com/alar_tuka2">
-         <img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Tuka Alarbi | Instagram" width="21px"/></a>&nbsp; --> 
+         <img align="left" alt="Tuka Alsharief [fka Tuka Alarbi] | LinkedIn" width="35px" src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" /></a>&nbsp;
 
 <a alt="Tuka Alsharief [fka Tuka Alarbi] | Email" href="mailto:talarbi@uwaterloo.ca?subject=Reaching out from Github">
          <img align="left" alt="Tuka Alsharief [fka Tuka Alarbi] | Email" width="45px" src="https://img.icons8.com/?size=512&id=OumT4lIcOllS&format=png" />
@@ -39,15 +37,17 @@ I love the entire process of developing creative websites and I love learning ab
 
 ## 🔭&nbsp; I'm currently working on
 
-- My personal website and portfolio (React)
-- My python skills
+- HeadstarterAI Software Engineering Fellowship
+  
 <br />
 
 ## 🌱 &nbsp;I'm currently learning
 
-- Data Structures, Types & Management
-- Computer Systems(Organization & Design) & Sequential Programs
-- Natural Language Processing 
+- LLM
+- RAG
+- AWS
+- NLP
+  
 <br />
 
 ## 📈 &nbsp;My Github stats
