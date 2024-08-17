@@ -28,10 +28,20 @@ I love the entire process of developing creative websites, and I love learning a
 <img align="left" alt="Tuka Alsharief [fka Tuka Alarbi] | CSS3" width="35px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/css-icon.svg" />
 <img align="" alt="Tuka Alsharief [fka Tuka Alarbi] | C" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 <img align="left" alt="Tuka Alsharief [fka Tuka Alarbi] | ReactJS" width="37px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/react-icon.svg" />
-<img align="left" alt="Tuka Alsharief [fka Tuka Alarbi] | Processing5" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/processing/processing-original.svg" />	
-<img align="left" alt="Tuka Alsharief [fka Tuka Alarbi] | Figma" width="35px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/figma-icon.svg" />
+<img align="left" alt="Tuka Alsharief [fka Tuka Alarbi] | NextJS" width="37px" src="https://img.icons8.com/?size=100&id=MWiBjkuHeMVq&format=png&color=000000" />
+<img align="left" alt="Tuka Alsharief [fka Tuka Alarbi] | Processing5" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/processing/processing-original.svg" />
+<img align="" alt="Tuka Alsharief [fka Tuka Alarbi] | Flask" width="32px" src="https://img.icons8.com/?size=100&id=ewGOClUtmFX4&format=png&color=000000" />
+
+<img align="left" alt="Tuka Alsharief [fka Tuka Alarbi] | MaterialUI" width="35px" src="https://img.icons8.com/?size=100&id=gFw7X5Tbl3ss&format=png&color=000000" />
+<img align="left" alt="Tuka Alsharief [fka Tuka Alarbi] | TailwindCSS" width="35px" src="https://img.icons8.com/?size=100&id=FnnFuAIw4e8j&format=png&color=000000" />
+<img align="" alt="Tuka Alsharief [fka Tuka Alarbi] | Figma" width="35px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/figma-icon.svg" />
+
+<img align="left" alt="Tuka Alsharief [fka Tuka Alarbi] | OpenAI" width="32px" src="https://img.icons8.com/?size=100&id=kTuxVYRKeKEY&format=png&color=000000" />
+<img align="" alt="Tuka Alsharief [fka Tuka Alarbi] | Meta" width="32px" src="https://img.icons8.com/?size=100&id=PvvcWRWxRKSR&format=png&color=000000" />
+
 <img align="left" alt="Tuka Alsharief [fka Tuka Alarbi] | Git" width="32px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
-<img align="left" alt="Tuka Alsharief [fka Tuka Alarbi] | VSCode" width="36px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/vscode-icon.svg" />
+<!-- <img align="left" alt="Tuka Alsharief [fka Tuka Alarbi] | VSCode" width="36px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/vscode-icon.svg" />
+-->
 <br />
 <br />
 
