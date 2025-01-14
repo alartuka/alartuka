@@ -27,6 +27,7 @@ Focused on the entire process of developing creative applications while explorin
 <img align="left" alt="Tuka Alsharief [fka Tuka Alarbi] | HTML5" width="34px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="Tuka Alsharief [fka Tuka Alarbi] | CSS3" width="35px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/css-icon.svg" />
 <img align="left" alt="Tuka Alsharief [fka Tuka Alarbi] | C" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+<img align="left" alt="Tuka Alsharief [fka Tuka Alarbi] | TypeScript Icon" width="35px" src="https://img.icons8.com/?size=100&id=wpZmKzk11AzJ&format=png&color=000000" />
 
 <img align="left" alt="Tuka Alsharief [fka Tuka Alarbi] | ReactJS" width="37px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/react-icon.svg" />
 <img align="left" alt="Tuka Alsharief [fka Tuka Alarbi] | NextJS" width="37px" src="https://img.icons8.com/?size=100&id=MWiBjkuHeMVq&format=png&color=000000" />
