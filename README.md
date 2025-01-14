@@ -9,7 +9,7 @@
 
 I'm a ***💻Computer Science & Mathematics*** student at the **University of Waterloo🎓** focusing on artificial intelligence🤖.
 
-I love the entire process of developing creative websites and learning about the psychology behind people's behaviours, thoughts, and emotions to develop better and innovative applications and to soon be able to use the knowledge to bring emotional quotient to technology. 
+Focused on the entire process of developing creative applications while exploring the intersection of psychology, neuroscience, and technology. My goal is to create innovative software solutions that incorporate these fields.
 
 <a alt="Tuka Alsharief [fka Tuka Alarbi] | LinkedIn" href="https://www.linkedin.com/in/tukaalarbi/">
          <img align="left" alt="Tuka Alsharief [fka Tuka Alarbi] | LinkedIn" width="35px" src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" /></a>&nbsp;
@@ -51,7 +51,7 @@ I love the entire process of developing creative websites and learning about the
 
 - Updating personal website
 - MS AzureAI Fundamentals Certification
-- Solving LeetCode Problems
+- Practising Leetcode
   
 <br />
 
