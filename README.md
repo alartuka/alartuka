@@ -9,7 +9,7 @@
 
 I'm a ***💻Computer Science & Mathematics*** student at the **University of Waterloo🎓** focusing on artificial intelligence🤖.
 
-Focused on the entire process of developing creative applications while exploring the intersection of psychology, neuroscience, and technology. My goal is to create innovative software solutions that incorporate these fields.
+Focused on developing creative applications while exploring the intersection of psychology, neuroscience, and technology. My goal is to create innovative software solutions that incorporate these fields.
 
 <a alt="Tuka Alsharief [fka Tuka Alarbi] | LinkedIn" href="https://www.linkedin.com/in/tukaalarbi/">
          <img align="left" alt="Tuka Alsharief [fka Tuka Alarbi] | LinkedIn" width="35px" src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" /></a>&nbsp;
