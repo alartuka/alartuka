@@ -67,10 +67,11 @@ Focused on developing creative applications while exploring the intersection of 
 ## 📈 &nbsp;My Github stats
 <!-- <img alt="Tuka Alsharief [fka Tuka Alarbi] | Github Stats" align="left" src="https://github-readme-stats.vercel.app/api?username=alartuka&show_icons=true&theme=algolia&hide_border=true" /> -->
 
-<!-- <img alt="Tuka Alsharief [fka Tuka Alarbi] | Github Streaks" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=alartuka&theme=algolia&hide_border=true"/> -->
-<a href="https://git.io/streak-stats">
+<img alt="Tuka Alsharief [fka Tuka Alarbi] | Github Streaks" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=alartuka&theme=algolia&hide_border=true"/>
+
+<!-- <a href="https://git.io/streak-stats">
          <img alt="Tuka Alsharief [fka Tuka Alarbi] | Github Streaks" src="https://github-readme-streak-stats.herokuapp.com user=alartuka&theme=algolia&hide_border=true&border_radius=5" />
-</a> <br />
+</a> <br /> -->
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=alartuka&theme=algolia&hide_border=true&border_radius=5)](https://git.io/streak-stats) -->
 <img alt="Tuka Alsharief [fka Tuka Alarbi] | Top Langs" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alartuka&theme=algolia&hide_border=true" />
 <br />
