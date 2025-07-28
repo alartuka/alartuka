@@ -14,8 +14,8 @@ Focused on developing creative applications while exploring the intersection of 
 <a alt="Tuka Alsharief [fka Tuka Alarbi] | LinkedIn" href="https://www.linkedin.com/in/tukaalarbi/">
          <img align="left" alt="Tuka Alsharief [fka Tuka Alarbi] | LinkedIn" width="35px" src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" /></a>&nbsp;
 
-<a alt="Tuka Alsharief [fka Tuka Alarbi] | Email" href="mailto:talarbi@uwaterloo.ca?subject=Reaching out from Github">
-         <img align="left" alt="Tuka Alsharief [fka Tuka Alarbi] | Email" width="45px" src="https://img.icons8.com/?size=512&id=OumT4lIcOllS&format=png" />
+<a alt="Tuka Alsharief [fka Tuka Alarbi] | Contact" href="https://tuka-alsharief.vercel.app/ContactForm">
+         <img align="left" alt="Tuka Alsharief [fka Tuka Alarbi] | Contact" width="45px" src="https://img.icons8.com/?size=512&id=OumT4lIcOllS&format=png" />
 </a>
 <br />
 <br />
@@ -50,7 +50,7 @@ Focused on developing creative applications while exploring the intersection of 
 
 ## 🔭&nbsp; I'm currently working on
 
-- Updating personal website
+- BuildCore Beta Engineer Program by Headstarter
 - MS AzureAI Fundamentals Certification
 - Practising Leetcode
   
